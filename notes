@@ -1,0 +1,13 @@
+ A module is a file that contain python definations and statements. a modules functions classes and global variables van be accessed by other modules.
+ package - a collection of modules that can be accessed as a group using the package name.
+ import - the python keyword used to access data from other packages or modules inside the current module.
+ PYpi the python packega index - is a repository of python packages that can be downloaded and made avaialable to your application.
+ pip is the command line tool that is used to download packages from Pypi. pip is isntalled on your computer automatically when you download Python.
+ Virtual environment- a collection of modules packaged and scripts that can be activated or deactivated at any time.
+ pipenv a virtual environment took that uses pip to manage the modules pakcages and scripts that you intend to use in your application.
+
+
+ how does teh import statement in my module help me expand the functionality of my appliaction.
+ how do i find packages on PyPI 
+ AND HOW DOES a virtual environment set up when i run pipenv install.
+ 
